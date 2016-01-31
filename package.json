@@ -1,0 +1,22 @@
+{
+  "name": "heroku-test",
+  "version": "1.0.0",
+  "description": "This is a test for deploying a node/express app to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migsan/heroku-test.git"
+  },
+  "author": "Miguel Angel Santmaría",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migsan/heroku-test/issues"
+  },
+  "homepage": "https://github.com/migsan/heroku-test#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
